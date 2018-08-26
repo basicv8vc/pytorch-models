@@ -1,1 +1,1 @@
-Some paper models implemented in pytorch.
+Some NLP models implemented in pytorch.
